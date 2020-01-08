@@ -1,5 +1,3 @@
-# testing-repository
+# Personal website
 
-Howdy!
-
-It's so nice to have you visit. 
+Lean, clean, personal website. 
